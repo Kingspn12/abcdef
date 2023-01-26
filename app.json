@@ -11,31 +11,31 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "5787420184:AAEr_UQnpBbQHXeOnYv2NyDjEGXPPxqZlzE"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "7626510"
+            "value": "26871269"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ca991bfa07a6ac45e6d5f374c84ab05c"
+            "value": "c49f273ffa27f53f7751557950b4c8c9"
         },
         "DOODSTREAM_API_KEY": {
             "description": "Get this from https://doodstream.com/api-docs (must change)",
-            "value": "66186ezt1oza1ar9unrsk"
+            "value": "169472plyqdcv9srcis3qm"
         },
          "BITLY_KEY": {
             "description": "Bitly API See Readme for further details",
-            "value": "b93836643675f9aa9b65b22ef6d512dbfdfa559a"
+            "value": "fe98ef2191154a5c5db7836b3fdfbce4c9f97383"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "Desi_bhabhi_Aunty_Hot_video"
+            "value": "@Kingstellar"
         },
         "HOWTO": {
             "description": "Your 'How to Download from Droplink' video link",
-            "value": "Desi_Bhabhi_Aunty_hot_Video/80"
+            "value": ""
         }
     },
     "addons": [],
